@@ -1,0 +1,53 @@
+GIT CLI
+CHEATSHEET
+===========
+
+$ git help:
+
+$ git init: to initialize directory for git version control
+
+$ git status: to check untracked files in the pipeline ready to commit
+
+$ git add: to add files to be tracked in the staging area
+
+$ git diff: to see the difference between working and staging area
+
+$ git commit: to commit a change to a branch repo with a brief description
+
+$ git commit —-amend:
+
+$ git push: 
+
+$ git pull:
+
+$ git clone:
+
+$ git branch:
+
+$ git checkout:
+
+$ git merge:
+
+$ git remote:
+
+$ git config:
+
+$ git reset:
+
+$ git log:
+
+$ git ignore: + *.txt
+
+$ git reverse:
+
+$ git reflog:
+
+$ git clean:
+
+$ git reset:
+
+$ git cherry-pick:
+
+
+
+https://git-scm.com/
